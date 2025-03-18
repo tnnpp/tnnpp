@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Napasorn Tevarut</h1>
 <h3 align="center">A passionatefullstack developer from Thailand!</h3>
 
-- 🔭 I’m currently working on **B2D venture**
+- 🔭 I’m currently working on **Talai Next**
 
-- 🌱 I’m currently learning **AI and Spring framework**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **napasorn.te@ku.th**
 
